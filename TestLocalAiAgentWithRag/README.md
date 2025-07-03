@@ -39,6 +39,8 @@
   curl -fsSL https://ollama.com/install.sh | 
   # Check.
   ollama
+  # Check models.
+  ollama list
   # Install Ollama models.
   ollama pull llama3.2
   ollama pull mxbai-embed-large
