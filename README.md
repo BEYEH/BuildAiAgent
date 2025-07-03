@@ -18,23 +18,25 @@
 
 ## Pathway
 
-``` bash
-# Create virtual env.
-sudo apt install python3.10-venv
-python3 -m venv venv
-# Enter virtual env.
-source venv/bin/activate
-# Exit virtual env.
-deactivate
-# Check packages.
-pip3 list
-# Install packages from a file.
-pip install -r ./requirements.txt
-# Saving packages.
-pip freeze > requirements.txt
-# Upgrade pip.
-python3 -m pip install --upgrade pip
-```
+- Virtual env.
+
+  ``` bash
+  # Create virtual env.
+  sudo apt-get install python3-venv
+  python3 -m venv venv
+  # Enter virtual env.
+  source venv/bin/activate
+  # Exit virtual env.
+  deactivate
+  # Check packages.
+  pip list
+  # Install packages from a file.
+  pip install -r ./requirements.txt
+  # Saving packages.
+  pip freeze > requirements.txt
+  # Upgrade pip.
+  python3 -m pip install --upgrade pip
+  ```
 
 ## Resources
 
