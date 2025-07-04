@@ -38,3 +38,6 @@
   - [Build an AI Agent From Scratch in Python - Tutorial for Beginners](https://www.youtube.com/watch?v=bTMPwUgLZf0)
 - GitHub
   - [techwithtim / PythonAIAgentFromScratch](http://github.com/techwithtim/PythonAIAgentFromScratch)
+- [Groq](https://groq.com/)
+  - [Groq API Keys](https://console.groq.com/keys)
+  - [Groq Quickstart](https://console.groq.com/docs/quickstart)
