@@ -66,6 +66,9 @@
   # Install Ollama models.
   ollama pull llama3.2
   ollama pull mxbai-embed-large
+  ollama pull qwen3:14b
+  # Run model.
+  ollama run qwen3:14b
   ```
 
 ## Resources
