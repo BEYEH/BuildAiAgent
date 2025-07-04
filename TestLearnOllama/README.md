@@ -69,6 +69,9 @@
   ollama pull qwen3:14b
   # Run model.
   ollama run qwen3:14b
+  # Serve model.
+  ollama serve
+  OLLAMA_HOST=127.0.0.1:11435 ollama serve
   ```
 
 ## Resources
