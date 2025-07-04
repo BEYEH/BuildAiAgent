@@ -74,6 +74,19 @@
   OLLAMA_HOST=127.0.0.1:11435 ollama serve
   ```
 
+- Custom
+
+  ``` bash
+  # Create model base on model file.
+  ollama create mario -f ./Modelfile
+  # Check custom model
+  ollama list
+  # Run model
+  ollama run mario
+  # Remove model
+  ollama rm mario
+  ```
+
 ## Resources
 
 - [Ollama](https://ollama.com/)
