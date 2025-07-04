@@ -74,5 +74,6 @@
   - [Ollama Library](https://ollama.com/library)
 - GitHub
   - [ollama / ollama](https://github.com/ollama/ollama)
+  - [techwithtim / OllamaTutorial](https://github.com/techwithtim/OllamaTutorial)
 - YouTube
   - [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://www.youtube.com/watch?v=UtSSMs6ObqY)
