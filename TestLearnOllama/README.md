@@ -18,6 +18,16 @@
   |    16    |            13            |
   |    32    |            33            |
 
+- Parameters of model between 10 to 33.
+
+  | Model            | Parameters | Size  | Download                   |
+  | ---------------- | :--------: | :---: | -------------------------- |
+  | QwQ              |    32B     | 20GB  | ollama run qwq             |
+  | Gemma 3          |    27B     | 17GB  | ollama run gemma3:27b      |
+  | Phi 4            |    14B     | 9.1GB | ollama run phi4            |
+  | Gemma 3          |    12B     | 8.1GB | ollama run gemma3:12b      |
+  | Llama 3.2 Vision |    11B     | 7.9GB | ollama run llama3.2-vision |
+
 ## Pathway
 
 - Virtual env.
