@@ -16,6 +16,8 @@
 
 ## Note
 
+- LangChain
+  - It is a framework for building LLM-powered applications. It helps you chain together interoperable components and third-party integrations to simplify AI application development — all while future-proofing decisions as the underlying technology evolves.
 - LLMs
   - OpenAI - ChatGPT
   - Anthropic - Claude
@@ -46,6 +48,8 @@
 
 ## Resources
 
+- GitHub
+  - [langchain-ai / langchain](https://github.com/langchain-ai)
 - YouTube
   - [Python Virtual Environments - Full Tutorial for Beginners](https://www.youtube.com/watch?v=Y21OR1OPC9A)
   - [Build an AI Agent From Scratch in Python - Tutorial for Beginners](https://www.youtube.com/watch?v=bTMPwUgLZf0)

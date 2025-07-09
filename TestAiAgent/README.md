@@ -41,3 +41,4 @@
 - [Groq](https://groq.com/)
   - [Groq API Keys](https://console.groq.com/keys)
   - [Groq Quickstart](https://console.groq.com/docs/quickstart)
+- [OpenAI Platform](https://platform.openai.com/)
