@@ -44,7 +44,9 @@
 - Create & Run the agent.
   - Use `AgentExecutor` to run the agent.
     - Enable verbose mode to view the agent's reasoning process.
-- Output parsing
+- Output parsing.
+- Add prebuild tools.
+  - Tools are components that an LLM or agent can utilize, either developed by us or imported from sources like the LangChain community hub.
 
 ## Resources
 
