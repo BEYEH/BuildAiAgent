@@ -12,25 +12,33 @@
 
 ## Pathway
 
-- Virtual env.
+- Setup / Requirements
+  - Virtual env.
 
-  ``` bash
-  # Create virtual env.
-  sudo apt-get install python3-venv
-  python3 -m venv venv
-  # Enter virtual env.
-  source venv/bin/activate
-  # Exit virtual env.
-  deactivate
-  # Check packages.
-  pip list
-  # Install packages from a file.
-  pip install -r ./requirements.txt
-  # Saving packages.
-  pip freeze > requirements.txt
-  # Upgrade pip.
-  python3 -m pip install --upgrade pip
-  ```
+    ``` bash
+    # Create virtual env.
+    sudo apt-get install python3-venv
+    python3 -m venv venv
+    # Enter virtual env.
+    source venv/bin/activate
+    # Exit virtual env.
+    deactivate
+    # Check packages.
+    pip list
+    # Install packages from a file.
+    pip install -r ./requirements.txt
+    # Saving packages.
+    pip freeze > requirements.txt
+    # Upgrade pip.
+    python3 -m pip install --upgrade pip
+    ```
+
+- Basic code - Setup / Imports
+  - Choose a model to use.
+  - Get you API key.
+  - Basic LLM functionality.
+- Structured - Output / Models
+  - Prompt templete
 
 ## Resources
 
