@@ -16,6 +16,12 @@
 
 ## Note
 
+- LLMs
+  - OpenAI - ChatGPT
+  - Anthropic - Claude
+  - Meta - Llama
+  - Google - Gemini
+
 ## Pathway
 
 - Virtual env.
