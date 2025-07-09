@@ -41,3 +41,9 @@ agent_executor = AgentExecutor(agent=agent, tools=[], verbose=True)
 
 raw_response = agent_executor.invoke({"query": "What is LangChain?"})
 print(raw_response)
+
+try:
+    structured_response = parser.parse(raw_response.get("output"))
+    print(structured_response.topic)
+except Exception as e:
+    print("Error parsing response", e, "Raw Response - ", raw_response)

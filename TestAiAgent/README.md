@@ -44,6 +44,7 @@
 - Create & Run the agent.
   - Use `AgentExecutor` to run the agent.
     - Enable verbose mode to view the agent's reasoning process.
+- Output parsing
 
 ## Resources
 
