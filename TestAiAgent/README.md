@@ -57,6 +57,7 @@
 - Groq
   - [Groq API Keys](https://console.groq.com/keys)
   - [Groq Quickstart](https://console.groq.com/docs/quickstart)
+  - [Introduction to Tool Use](https://console.groq.com/docs/tool-use)
 - OpenAI Platform
 - LangChain
   - [LangChain Python API Reference](https://python.langchain.com/api_reference/index.html)
