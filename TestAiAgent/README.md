@@ -13,9 +13,10 @@
 ## Pathway
 
 - Setup / Requirements
+
   - Virtual env.
 
-    ``` bash
+    ```bash
     # Create virtual env.
     sudo apt-get install python3-venv
     python3 -m venv venv
@@ -38,7 +39,11 @@
   - Get you API key.
   - Basic LLM functionality.
 - Structured - Output / Models
-  - Prompt templete
+  - Define a simple python class which will specify the type of content that we want out LLM to generate.
+- Prompt templetes
+- Create & Run the agent.
+  - Use `AgentExecutor` to run the agent.
+    - Enable verbose mode to view the agent's reasoning process.
 
 ## Resources
 
@@ -46,7 +51,10 @@
   - [Build an AI Agent From Scratch in Python - Tutorial for Beginners](https://www.youtube.com/watch?v=bTMPwUgLZf0)
 - GitHub
   - [techwithtim / PythonAIAgentFromScratch](http://github.com/techwithtim/PythonAIAgentFromScratch)
-- [Groq](https://groq.com/)
+- Groq
   - [Groq API Keys](https://console.groq.com/keys)
   - [Groq Quickstart](https://console.groq.com/docs/quickstart)
-- [OpenAI Platform](https://platform.openai.com/)
+- OpenAI Platform
+- LangChain
+  - [LangChain Python API Reference](https://python.langchain.com/api_reference/index.html)
+    - [ChatPromptTemplate](https://python.langchain.com/api_reference/core/prompts/langchain_core.prompts.chat.ChatPromptTemplate.html)
