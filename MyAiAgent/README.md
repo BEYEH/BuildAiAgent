@@ -36,6 +36,7 @@
 
 - LangChain
   - [Components](https://python.langchain.com/docs/integrations/components/)
+    - [ChatGroq](https://python.langchain.com/docs/integrations/chat/groq/)
   - [Doc](https://python.langchain.com/docs/introduction)
   - [Python API Reference](https://python.langchain.com/api_reference/index.html)
   - [ChatPromptTemplate](https://python.langchain.com/api_reference/core/prompts/langchain_core.prompts.chat.ChatPromptTemplate.html)
