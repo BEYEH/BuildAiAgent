@@ -56,3 +56,9 @@
   - [Python Virtual Environments - Full Tutorial for Beginners](https://www.youtube.com/watch?v=Y21OR1OPC9A)
   - [Build an AI Agent From Scratch in Python - Tutorial for Beginners](https://www.youtube.com/watch?v=bTMPwUgLZf0)
   - [How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)](https://www.youtube.com/watch?v=E4l91XKQSgw)
+- Google ADK
+  - [Home](https://google.github.io/adk-docs/)
+- MCP
+  - [Home](https://modelcontextprotocol.io/)
+- Smithery
+  - [Home](https://smithery.ai/)
