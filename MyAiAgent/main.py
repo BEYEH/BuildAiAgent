@@ -4,9 +4,7 @@ from pydantic import BaseModel
 from langchain_core.output_parsers import PydanticOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.agents import create_tool_calling_agent, AgentExecutor
-from tools.ddg_search_tool import t_ddg_search
-from tools.save_text_tool import t_save_text_to_file
-from tools.wiki_search_tool import t_wiki_search
+from tools import ddg_search_tool, save_text_tool, wiki_search_tool
 
 load_dotenv()
 
@@ -20,7 +18,11 @@ class ResearchResponse(BaseModel):
 
 def main():
     llm = ChatGroq(model="llama-3.3-70b-versatile")
-    tools = [t_ddg_search, t_wiki_search, t_save_text_to_file]
+    tools = [
+        ddg_search_tool.t_ddg_search,
+        wiki_search_tool.t_wiki_search,
+        save_text_tool.t_save_text_to_file,
+    ]
 
     query = input("User Input: ")
 
