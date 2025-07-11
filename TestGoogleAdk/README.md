@@ -26,6 +26,15 @@
   pip install -r ./requirements.txt
   ```
 
+- Create project.
+
+  ``` bash
+  mkdir multi_tool_agent/
+  echo "from . import agent" > multi_tool_agent/__init__.py
+  touch multi_tool_agent/agent.py
+  touch multi_tool_agent/.env
+  ```
+
 ## Resources
 
 - [Google ADK](https://google.github.io/adk-docs/)
