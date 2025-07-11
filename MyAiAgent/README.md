@@ -4,14 +4,16 @@
 <!-- omit in toc -->
 ## Table of contents
 
-- [AI Agent Tools](#ai-agent-tools)
+- [Tools](#tools)
 - [Steps](#steps)
 - [Resources](#resources)
 - [Appendix](#appendix)
 
-## AI Agent Tools
+## Tools
 
-- DuckDuckGoSearchRun
+- Tool calling
+  - DuckDuckGoSearchRun
+  - WikipediaQueryRun
 
 ## Steps
 
