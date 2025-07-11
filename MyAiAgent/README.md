@@ -39,6 +39,8 @@
   - [ChatPromptTemplate](https://python.langchain.com/api_reference/core/prompts/langchain_core.prompts.chat.ChatPromptTemplate.html)
 - Groq Cloud
   - [API Keys](https://console.groq.com/keys)
+- MCP
+  - [Introduction](https://modelcontextprotocol.io/introduction)
 - Others
   - [DuckDuckGo](https://duckduckgo.com/)
 
