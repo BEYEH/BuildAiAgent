@@ -35,9 +35,14 @@
   touch multi_tool_agent/.env
   ```
 
+- Setup the model.
+  - Get an API key from Google AI Studio.
+  - Update API key in `.env` file.
+
 ## Resources
 
 - [Google ADK](https://google.github.io/adk-docs/)
+- [Google AI Studio](https://aistudio.google.com/)
 
 ## Appendix
 
