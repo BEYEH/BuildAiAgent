@@ -13,6 +13,19 @@
 
 ## Steps
 
+- Setup env & install ADK.
+
+  ``` bash
+  # Create env.
+  python3 -m venv .venv
+  # Activate virtual env in Linux.
+  source .venv/bin/activate
+  # Install ADK.
+  pip install google-adk
+  # Install required packages.
+  pip install -r ./requirements.txt
+  ```
+
 ## Resources
 
 - [Google ADK](https://google.github.io/adk-docs/)
