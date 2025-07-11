@@ -39,6 +39,24 @@
   - Get an API key from Google AI Studio.
   - Update API key in `.env` file.
 
+- Run agent in 3 ways.
+
+  ``` bash
+  # Go back to parent folder of `multi_tool_agent/`.
+  cd ..
+  # Option 1. Dev UI (adk web)
+  adk web
+  # Option 2. Terminal (adk run)
+  adk run multi_tool_agent
+  # Option 3. API server (adk api_server)
+  adk api_server
+  ```
+
+  - Option 1. Dev UI
+    - Open the URL (`http://localhost:8000` or `http://127.0.0.1:8000`).
+    - Select project folder.
+    - Start to chat with agent.
+
 ## Resources
 
 - [Google ADK](https://google.github.io/adk-docs/)
