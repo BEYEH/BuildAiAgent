@@ -33,6 +33,25 @@
   cd examples/python/snippets/streaming/adk-streaming/app
   ```
 
+- Setup the platform.
+  - Option 1 : Gemini - Google AI Studio.
+    - Get an API key from `Google AI Studio`.
+    - Update API key in `.env` file.
+  - Option 2 : Gemini - Google Cloud Vertex AI.
+    - Get an API key from `Google Cloud`.
+    - ...
+
+- Interact with streaming app.
+  - Navigate to the correct directory (`adk-streaming/app`).
+  - Start the Fast API.
+
+    ``` bash
+    uvicorn main:app --reload
+    ```
+  
+  - Access the app with the text mode.
+    - `http://127.0.0.1:8000` or `http://localhost:8000`
+
 ## Resources
 
 - [Custom Audio Streaming app (SSE)](https://google.github.io/adk-docs/streaming/custom-streaming/)
