@@ -56,6 +56,7 @@
   - [Python Virtual Environments - Full Tutorial for Beginners](https://www.youtube.com/watch?v=Y21OR1OPC9A)
   - [Build an AI Agent From Scratch in Python - Tutorial for Beginners](https://www.youtube.com/watch?v=bTMPwUgLZf0)
   - [How to Build a Local AI Agent With Python (Ollama, LangChain & RAG)](https://www.youtube.com/watch?v=E4l91XKQSgw)
+  - [MCP Crash Course for Python Developers](https://www.youtube.com/watch?v=5xqFjh56AwM)
 - Google ADK
   - [Home](https://google.github.io/adk-docs/)
 - MCP
