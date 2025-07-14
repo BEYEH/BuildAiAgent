@@ -59,6 +59,7 @@
   - [MCP Crash Course for Python Developers](https://www.youtube.com/watch?v=5xqFjh56AwM)
 - Google ADK
   - [Home](https://google.github.io/adk-docs/)
+  - [Tutorials](https://google.github.io/adk-docs/tutorials/)
 - MCP
   - [Home](https://modelcontextprotocol.io/)
 - Smithery
