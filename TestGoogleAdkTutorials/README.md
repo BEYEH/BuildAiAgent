@@ -19,6 +19,18 @@
 
 ## Steps
 
+- Setup env & install ADK.
+
+  ```bash
+  mkdir TestGoogleAdkTutorials
+  cd TestGoogleAdkTutorials
+  python -m venv .venv
+  source .venv/bin/activate
+  pip list
+  pip install google-adk
+  pip install litellm
+  ```
+
 ## Note
 
 - System description:
