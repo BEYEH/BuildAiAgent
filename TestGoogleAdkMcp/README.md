@@ -31,6 +31,13 @@
 
 ## Note
 
+- **Model Context Protocol (MCP)** is an open standard designed to standardize how Large Language Models (LLMs) like Gemini and Claude communicate with external applications, data sources, and tools.
+- **MCP** follows a client-server architecture, defining how **data**, **templates**, and **functions** are exposed by an MCP server and consumed by an MCP client.
+  - data : resources
+  - templates : primpts
+  - functions : tools
+  - MCP client : LLM host app, AI agent
+
 ## Resources
 
 - Google ADK
