@@ -57,9 +57,24 @@
 
   - Open the URL. (`http://localhost:8000` or `http://127.0.0.1:8000`)
 
+- Talk to Agent.
+
+  ``` python
+  # agent.py
+  root_agent = Agent(
+    name="weather_time_agent",
+    model="replace-me-with-model-id", #e.g. gemini-2.0-flash-live-001
+    ...
+  )
+  ```
+
+  - In order to use voice/video streaming in ADK, you will need to use Gemini models that support the Live API.
+
 ## Note
 
 ## Resources
 
 - Google ADK
   - [Quickstart](https://google.github.io/adk-docs/get-started/quickstart/)
+- Google AI for Developers
+  - [All models](https://ai.google.dev/gemini-api/docs/models)
