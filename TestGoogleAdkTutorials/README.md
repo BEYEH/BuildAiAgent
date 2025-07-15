@@ -32,6 +32,22 @@
   pip freeze > requirements_freeze.txt
   ```
 
+- Create python file.
+- Import necessary libraries.
+- Configure API keys.
+
+  ``` python
+  from dotenv import load_dotenv
+
+  load_dotenv()
+  ```
+
+- Define model constants.
+
+  ``` python
+  MODEL_GEMINI_2_0_FLASH = "gemini-2.0-flash"
+  ```
+
 ## Note
 
 - System description:
@@ -50,3 +66,5 @@
     - [Build Your First Intelligent Agent Team: A Progressive Weather Bot with ADK](https://google.github.io/adk-docs/tutorials/agent-team/)
 - Google AI for Developers
   - [All models](https://ai.google.dev/gemini-api/docs/models)
+- Google AI Studio
+  - [API Keys](https://aistudio.google.com/app/apikey)
