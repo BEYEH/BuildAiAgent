@@ -17,6 +17,8 @@
 
 ## App Screenshots
 
+<img src="./images/first_weather_agent.png" alt="Google ADK Web UI" width="400"/>
+
 ## Steps
 
 - Setup env & install ADK.
@@ -57,6 +59,7 @@
   - Giving agents memory using persistent session state.
   - Implementing crucial safety guardrails using callbacks.
 - **ADK** is a Python framework designed to streamline the development of applications powered by Large Language Models (LLMs). It offers robust building blocks for creating agents that can reason, plan, utilize tools, interact dynamically with users, and collaborate effectively within a team.
+- ADK makes switching between models seamless through its integration with the **LiteLLM** library. LiteLLM acts as a consistent interface to over 100 different LLMs.
 
 ## Resources
 
