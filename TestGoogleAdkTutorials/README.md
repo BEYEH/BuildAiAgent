@@ -24,11 +24,12 @@
   ```bash
   mkdir TestGoogleAdkTutorials
   cd TestGoogleAdkTutorials
+  touch requirements.txt
   python -m venv .venv
   source .venv/bin/activate
   pip list
-  pip install google-adk
-  pip install litellm
+  pip install -r ./requirements.txt
+  pip freeze > requirements_freeze.txt
   ```
 
 ## Note
