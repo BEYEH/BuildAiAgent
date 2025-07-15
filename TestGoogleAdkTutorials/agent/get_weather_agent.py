@@ -3,7 +3,7 @@ from google.adk.agents import Agent
 from tool import get_weather
 
 
-def weather_agent(model):
+def get_weather_agent(model):
     print("weather_agent")
 
     weather_agent = Agent(
@@ -19,3 +19,5 @@ def weather_agent(model):
     )
 
     print(f"Agent '{weather_agent.name}' created using model '{model}'.")
+
+    return weather_agent
