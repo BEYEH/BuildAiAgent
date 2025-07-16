@@ -17,8 +17,10 @@
 
 ## Pathway
 
-- Example 1 : File System MCP Server
-- Example 2 : Google Maps MCP Server
+- Using MCP servers with ADK agents (ADK as an MCP client) in `adk web`.
+  - Example 01 : File System MCP Server
+  - Example 02 : Google Maps MCP Server
+- Building an MCP server with ADK tools (MCP server exposing ADK)¶
 
 ## Steps
 
