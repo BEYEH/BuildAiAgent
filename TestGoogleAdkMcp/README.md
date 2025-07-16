@@ -6,6 +6,7 @@
 
 - [Target](#target)
 - [App Screenshots](#app-screenshots)
+- [Pathway](#pathway)
 - [Steps](#steps)
 - [Note](#note)
 - [Resources](#resources)
@@ -13,6 +14,11 @@
 ## Target
 
 ## App Screenshots
+
+## Pathway
+
+- Example 1 : File System MCP Server
+- Example 2 : Google Maps MCP Server
 
 ## Steps
 
