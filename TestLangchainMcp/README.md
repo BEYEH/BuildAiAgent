@@ -19,6 +19,21 @@
 
 ## Steps
 
+- Packages requirement
+
+  ```txt
+  // requirements.txt
+  python-dotenv
+  pandas
+  langchain
+  langchain-community
+  langchain-groq
+  langchain-mcp-adapters
+  pydantic
+  duckduckgo-search
+  wikipedia
+  ```
+
 - Setup env & install ADK.
 
   ```bash
