@@ -21,6 +21,7 @@
   - Example 01 : File System MCP Server
   - Example 02 : Google Maps MCP Server
 - Building an MCP server with ADK tools (MCP server exposing ADK)¶
+  - Example 03
 
 ## Steps
 
@@ -35,6 +36,18 @@
   pip list
   pip install -r ./requirements.txt
   pip freeze > requirements_freeze.txt
+  ```
+
+- Needed packages.
+
+  ``` txt
+  # requirements.txt
+  python-dotenv
+  google-adk
+  litellm
+  mcp
+  beautifulsoup4
+  lxml
   ```
 
 ## Note
