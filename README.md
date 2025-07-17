@@ -20,6 +20,8 @@
 
 - LangChain
   - It is a framework for building LLM-powered applications. It helps you chain together interoperable components and third-party integrations to simplify AI application development — all while future-proofing decisions as the underlying technology evolves.
+- LangChain MCP Adapters
+  - It is a package that makes it easy to use Anthropic Model Context Protocol (MCP) tools with LangChain & LangGraph.
 - Groq
   - Groq is a company that develops ultra-fast AI inference hardware (LPU) and a cloud-based inference platform. It also offers a developer platform that allows you to use popular large language models (LLMs) like GPT-4o, LLaMA, and Gemma for free—with extremely high speed and ultra-low latency.
 - LLMs
