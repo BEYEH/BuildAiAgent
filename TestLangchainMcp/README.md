@@ -35,3 +35,9 @@
 ## Note
 
 ## Resources
+
+- LangChain
+  - [Introduction](https://python.langchain.com/docs/introduction)
+  - [MCP Adapters for LangChain and LangGraph](https://changelog.langchain.com/announcements/mcp-adapters-for-langchain-and-langgraph)
+- GitHub
+  - [langchain-ai / langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)
