@@ -1,9 +1,10 @@
 python-dotenv
 langchain
 langchain-community
-langchain-groq
 langchain-mcp-adapters
-pydantic
-fastmcp
+langchain-groq
+langchain-openai
 yfinance
 asyncio
+langgraph
+fastmcp
