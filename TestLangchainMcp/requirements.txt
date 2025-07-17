@@ -8,3 +8,4 @@ yfinance
 asyncio
 langgraph
 fastmcp
+pandas

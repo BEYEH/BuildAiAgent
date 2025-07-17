@@ -17,6 +17,11 @@
 
 ## Pathway
 
+- Client side implementation ways:
+  - Streamable HTTP : `streamablehttp_client`
+  - Server-Sent Events (SSE) : `sse_client`
+  - Standard I/O : `stdio_client`
+
 ## Steps
 
 - Setup env & install ADK.
