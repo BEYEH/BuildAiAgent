@@ -1,0 +1,7 @@
+mcp
+langchain-core
+langchain-groq
+langchain-mcp-adapters
+langgraph
+asyncio
+python-dotenv
