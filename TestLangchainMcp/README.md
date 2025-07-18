@@ -5,22 +5,11 @@
 ## Table of contents
 
 - [Target](#target)
-- [App Screenshots](#app-screenshots)
-- [Pathway](#pathway)
 - [Steps](#steps)
 - [Note](#note)
 - [Resources](#resources)
 
 ## Target
-
-## App Screenshots
-
-## Pathway
-
-- Client side implementation ways:
-  - Streamable HTTP : `streamablehttp_client`
-  - Server-Sent Events (SSE) : `sse_client`
-  - Standard I/O : `stdio_client`
 
 ## Steps
 
@@ -39,6 +28,11 @@
 
 ## Note
 
+- Client side implementation ways:
+  - Streamable HTTP : `streamablehttp_client`
+  - Server-Sent Events (SSE) : `sse_client`
+  - Standard I/O : `stdio_client`
+
 ## Resources
 
 - LangChain
@@ -46,3 +40,4 @@
   - [MCP Adapters for LangChain and LangGraph](https://changelog.langchain.com/announcements/mcp-adapters-for-langchain-and-langgraph)
 - GitHub
   - [langchain-ai / langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters)
+  - [daveebbelaar / ai-cookbook](https://github.com/daveebbelaar/ai-cookbook/tree/main)
