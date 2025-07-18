@@ -1,0 +1,16 @@
+# Core MCP packages
+mcp
+
+# LangChain and LangGraph
+langchain-core
+langchain-community
+langchain-groq
+langchain-mcp-adapters
+langgraph
+
+# Others
+python-dotenv
+asyncio
+pydantic
+yfinance
+pandas
