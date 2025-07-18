@@ -1,0 +1,6 @@
+# Core MCP packages
+mcp
+mcp[cli]
+
+# Others
+asyncio
